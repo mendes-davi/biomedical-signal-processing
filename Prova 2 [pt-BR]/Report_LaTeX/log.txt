@@ -1,0 +1,162 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (maci64)
+                             February 23, 2018
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2018 The MathWorks, Inc.
+                   R2018a (9.4.0.813654) 64-bit (maci64)
+                             February 23, 2018
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+ \documentclass{article}
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage{spconf,amsmath,graphicx}
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage[utf8]{inputenc} % Suporte para acentuação sem necessidade dos comandos especiais.
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage{amsmath,epsfig}
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage[portuguese,algoruled,longend]{algorithm2e}
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage{multirow}
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage{MnSymbol}
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage{wasysym}
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage[table,xcdraw]{xcolor}
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage[brazilian]{babel}
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage{url}
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage{float}
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage{enumerate}
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage{matlab-prettifier}
+ |
+{Error: Invalid use of operator.
+} 
+ \usepackage{soul,framed} %,caption
+ |
+{Error: Invalid use of operator.
+} 
+ \colorlet{shadecolor}{yellow}
+ |
+{Error: Invalid use of operator.
+} 
+ \def\x{{\mathbf x}}
+ |
+{Error: Invalid use of operator.
+} 
+ \def\L{{\cal L}}
+ |
+{Error: Invalid use of operator.
+} 
+ \title{Projeto }
+ |
+{Error: Invalid use of operator.
+} 
+ \name{Davi de Alencar Mendes - 16/0026415}
+ |
+{Error: Invalid use of operator.
+} 
+ \address{Engenharia Eletrônica, UnB-FGA, Brasília, Brasil}
+ |
+{Error: Invalid use of operator.
+} 
+ \begin{document}
+ |
+{Error: Invalid use of operator.
+} 
+ \maketitle
+ |
+{Error: Invalid use of operator.
+} 
+ \begin{abstract}
+ |
+{Error: Invalid use of operator.
+} 
+ \end{abstract}
+ |
+{Error: Invalid use of operator.
+} 
+ \begin{keywords}
+ |
+{Error: Invalid use of operator.
+} 
+ \end{keywords}
+ |
+{Error: Invalid use of operator.
+} 
+ \section{Introdução}\label{sec:intro}
+ |
+{Error: Invalid use of operator.
+} 
+ \section{Projeto}\label{sec:projeto}
+ |
+{Error: Invalid use of operator.
+} 
+ \section{Resultados}\label{sec:resultados}
+ |
+{Error: Invalid use of operator.
+} 
+ \section{Discussão \& Conclusão}\label{sec:concl}
+ |
+{Error: Invalid use of operator.
+} 
+ \begin{thebibliography}{1}
+ |
+{Error: Invalid use of operator.
+} 
+ \bibitem{ref:gonzalez}
+ |
+{Error: Invalid use of operator.
+} 
+ Gonzalez, Rafael C., author. Digital image processing / Rafael C. Gonzalez, University of Tennessee, Richard E. Woods, Interapptics. New York, NY : Pearson, [2018]
+                                      |
+{Error: Invalid expression. Check for missing multiplication operator, missing
+or unbalanced delimiters, or other syntax error. To construct matrices, use
+brackets instead of parentheses.
+} 
+ \end{thebibliography}
+ |
+{Error: Invalid use of operator.
+} 
+ \end{document}
+ |
+{Error: Invalid use of operator.
+} 
