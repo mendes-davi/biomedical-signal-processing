@@ -1,0 +1,4 @@
+Session.vim
+.vscode
+__pycache__
+*.egg-info
